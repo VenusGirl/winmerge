@@ -4271,7 +4271,7 @@ msgstr "편집기 스크립트"
 msgid ""
 "\n"
 "Difference in the Current Line (F4)"
-msgstr ""
+msgstr "현재 줄의 차이 (F4)"
 "\n"
 "현재 줄의 차이점 (F4)"
 
