@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: WinMerge\n"
 "Report-Msgid-Bugs-To: https://github.com/WinMerge/winmerge/issues/\n"
 "POT-Creation-Date: 2022-01-22 21:51+0000\n"
-"PO-Revision-Date: 2026-04-21 00:14+0900\n"
+"PO-Revision-Date: 2026-04-29 05:50+0900\n"
 "Last-Translator: VenusGirl <venusgirl@outlook.com>\n"
 "Language-Team: VenusGirl: https://venusgirls.tistory.com/\n"
 "Language: ko\n"
@@ -6135,7 +6135,7 @@ msgstr "파일을 찾을 수 없습니다: %1"
 #: Merge.rc:4439
 #, c-format
 msgid "Folder not found: %1"
-msgstr ""
+msgstr "폴더를 찾을 수 없습니다: %1"
 
 #. IDS_ERROR_FILE_NOT_UNPACKED
 #: Merge.rc:4440
@@ -8602,7 +8602,7 @@ msgstr "하나의 인스턴스만 실행 허용"
 #. IDS_CLIPBOARD_HISTORY
 #: Merge.rc:5249
 msgid "Clipboard &History"
-msgstr ""
+msgstr "클리봅드 기록(&H)"
 
 #. IDS_SINGLEINSTANCE_STR2
 #: Merge.rc:5250
